@@ -1,0 +1,32 @@
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Debug\Forecast.exe.config
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.exe
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.xml
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.pdb
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Debug\Forecast.exe
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Debug\Forecast.pdb
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Debug\Forecast.xml
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.bar.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.Form1.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.FrmAskForWeight.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.Resources.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Debug\Forecast.vbproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Forecast\Forecast\bin\Debug\Forecast.exe.config
+C:\Users\medot\Desktop\Forecast\Forecast\bin\Debug\Forecast.exe
+C:\Users\medot\Desktop\Forecast\Forecast\bin\Debug\Forecast.pdb
+C:\Users\medot\Desktop\Forecast\Forecast\bin\Debug\Forecast.xml
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.bar.resources
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.Form1.resources
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.FrmAskForWeight.resources
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.Resources.resources
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.vbproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.exe
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.xml
+C:\Users\medot\Desktop\Forecast\Forecast\obj\Debug\Forecast.pdb
+C:\Users\medot\Desktop\ForecastProject\Forecast\Forecast\bin\Debug\Forecast.exe.config
+C:\Users\medot\Desktop\ForecastProject\Forecast\Forecast\obj\Debug\Forecast.exe
+C:\Users\medot\Desktop\ForecastProject\Forecast\Forecast\obj\Debug\Forecast.xml
+C:\Users\medot\Desktop\ForecastProject\Forecast\Forecast\obj\Debug\Forecast.pdb
+C:\Users\medot\Desktop\programming\ForecastProject\Forecast\Forecast\bin\Debug\Forecast.exe.config
+C:\Users\medot\Desktop\programming\ForecastProject\Forecast\Forecast\obj\Debug\Forecast.exe
+C:\Users\medot\Desktop\programming\ForecastProject\Forecast\Forecast\obj\Debug\Forecast.xml
+C:\Users\medot\Desktop\programming\ForecastProject\Forecast\Forecast\obj\Debug\Forecast.pdb

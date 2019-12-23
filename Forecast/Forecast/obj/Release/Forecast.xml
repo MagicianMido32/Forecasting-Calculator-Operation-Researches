@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Forecast
+</name>
+</assembly>
+<members>
+<member name="P:Forecast.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Forecast.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Forecast.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Forecast.DrawHelpers">
+	<summary>
+ Visual Studio GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.1
+ Control Count: 11
+ Date Created: 11/5/2014
+ Date Changed: 11/6/2014
+ UID: 1602992
+ Email: xertzstudio@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

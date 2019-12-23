@@ -1,0 +1,12 @@
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Release\Forecast.exe.config
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Release\Forecast.exe
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Release\Forecast.pdb
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\bin\Release\Forecast.xml
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.bar.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.Form1.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.FrmAskForWeight.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.Resources.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.vbproj.GenerateResource.Cache
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.exe
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.xml
+C:\Users\medot\documents\visual studio 2013\Projects\Forecast\Forecast\obj\Release\Forecast.pdb
