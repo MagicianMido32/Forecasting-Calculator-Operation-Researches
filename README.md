@@ -3,13 +3,13 @@
  
 1.Naieve method
 
-2.moving avarage
+2.moving average
 
-3.weighted moving abarage
+3.weighted moving average
 
 4.Exponential smoothing
 
-5.Adjusted ecponential smoothing
+5.Adjusted exponential smoothing
 
 6.Exponential smoothing with trend adjustment
 
@@ -18,7 +18,7 @@
 8.Seasonal Adjustment 
 
 
-Error cacluation: 
+Error calculation: 
 
 1.Mean Absolute deviation 
 
