@@ -1,7 +1,7 @@
 # Forecasting Calculator-Operation-Researches
  Forecasting Calculator-Operation-Researches
  
-1.Naieve method
+1.Naive method
 
 2.moving average
 
